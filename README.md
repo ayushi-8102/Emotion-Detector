@@ -1,4 +1,4 @@
-# Emotion-Detector.github.io
+# Emotion-Detector 
 ## About the project :
 ```
 This project aims at detecting various facial expressions using webcam with the help
