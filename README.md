@@ -7,15 +7,3 @@ I've used HTML,CSS and JavaScript for designing this project.
 
 I'll be adding age and gender dectector too in the future using tensorflow.js
 ````
-## How to run this Project
-
-<ol>
-  <li>Simply clone this repository on your PC.</li> 
-  </ol>
-
-  ## Demos
- 
-  ![firstpage](https://github.com/ayushi-8102/Emotion-Detector/blob/main/Demo/first%20page.gif?raw=true)
-  ![emotions](https://github.com/ayushi-8102/Emotion-Detector/blob/main/Demo/faced.gif?raw=true)
-   ![contactpage](https://github.com/ayushi-8102/Emotion-Detector/blob/main/Demo/contact%20page.gif?raw=true)
-   
